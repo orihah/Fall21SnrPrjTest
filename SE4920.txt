@@ -1,0 +1,4 @@
+Clone : Clone your repo to your local
+Add : Takes a modifeid file in your working directory and places the modified version in a staging area.
+Commit : Takes everything from the staging area and 
+ 
